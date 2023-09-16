@@ -12,7 +12,7 @@ This repository contains [Tuesday's classes]. [Provide more context if necessary
 [Link to JavaScript with Sean Doyle](https://seandoyle.dev/)
 
 
-[!NOTE] 
+:::note
 
 Morning Class: JavaScript & Afternoon Class: CSS.
 

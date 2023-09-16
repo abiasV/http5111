@@ -15,7 +15,7 @@ This repository contains [Tuesday's classes]. [Provide more context if necessary
 :::note
 
 Morning Class: JavaScript & Afternoon Class: CSS.
-
+:::
 
 [!IMPORTANT]  
 Crucial information necessary for users to succeed.

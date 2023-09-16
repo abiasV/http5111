@@ -11,14 +11,14 @@ This repository contains [Tuesday's classes]. [Provide more context if necessary
 ### Link
 [Link to JavaScript with Sean Doyle](https://seandoyle.dev/)
 
-> [!NOTE]  
-> Morning Class: JavaScript & Afternoon Class: CSS.
+[!NOTE]  
+Morning Class: JavaScript & Afternoon Class: CSS.
 
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
+[!IMPORTANT]  
+Crucial information necessary for users to succeed.
 
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
+[!WARNING]  
+Critical content demanding immediate user attention due to potential risks.
 
 
 ### Code Sample (JavaScript)

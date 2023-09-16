@@ -2,7 +2,7 @@
 
 ## JavaScript & CSS
 
-![Web Development1](_readme/Web Development1.jpg )
+![Web Development1](_readme/Web-Development1.jpg )
 
 
 ## Description
@@ -22,5 +22,5 @@ function greet(name) {
     return `Hello, ${name}!`;
 }
 
-const userName = "John";
+const userName = "Abbas Vaziri";
 console.log(greet(userName));

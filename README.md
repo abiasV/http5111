@@ -6,7 +6,7 @@
 
 
 ## Description
-This repository contains [Tuesday's classes]. [Provide more context if necessary.]
+Instructor: Sean Doyle sean.doyle@humber.ca
 
 ### Link
 [Link to JavaScript with Sean Doyle](https://seandoyle.dev/)

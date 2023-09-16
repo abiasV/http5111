@@ -14,10 +14,7 @@ This repository contains [Tuesday's classes]. [Provide more context if necessary
 
 :warning: **If you are using mobile browser**: Be very careful here!
 
-> **WARNING**: Be careful, or else!
-
-_**Warning:** Be very careful here._
-
+:important: **It's very Important**: test
 
 > **Note**
 > Morning Class: JavaScript & Afternoon Class: CSS.
@@ -27,7 +24,6 @@ _**Warning:** Be very careful here._
 
 > **Important**
 > This is a important
-
 
 
 > [!IMPORTANT]  

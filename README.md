@@ -6,7 +6,8 @@
 
 
 ## Description
-Instructor: Sean Doyle sean.doyle@humber.ca
+Instructor: Sean Doyle (sean.doyle@humber.ca)
+
 Instructor: Joanna Kommala (joanna.kommala@humber.ca)
 
 ### Link

@@ -7,6 +7,7 @@
 
 ## Description
 Instructor: Sean Doyle sean.doyle@humber.ca
+Instructor: Joanna Kommala (joanna.kommala@humber.ca)
 
 ### Link
 [Link to JavaScript with Sean Doyle](https://seandoyle.dev/)

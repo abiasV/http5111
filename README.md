@@ -12,11 +12,7 @@ This repository contains [Tuesday's classes]. [Provide more context if necessary
 [Link to JavaScript with Sean Doyle](https://seandoyle.dev/)
 
 
-**Note**
- This is a note
-
-**Warning**
- This is a warning
+:warning: **If you are using mobile browser**: Be very careful here!
 
 
 

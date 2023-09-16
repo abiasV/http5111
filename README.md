@@ -12,7 +12,7 @@ This repository contains [Tuesday's classes]. [Provide more context if necessary
 [Link to JavaScript with Sean Doyle](https://seandoyle.dev/)
 
 
-**Note**  
+**Check**
 Morning Class: JavaScript & Afternoon Class: CSS.
 
 
@@ -26,7 +26,7 @@ Critical content demanding immediate user attention due to potential risks.
 
 ### Code Sample (JavaScript)
 ```javascript
-// Example JavaScript code related to your repository
+// Example JavaScript code related to my repository
 function greet(name) {
     return `Hello, ${name}!`;
 }

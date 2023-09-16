@@ -13,6 +13,17 @@ This repository contains [Tuesday's classes]. [Provide more context if necessary
 
 
 :::note
+This is a note
+:::
+
+:::warning
+This is a warning
+:::
+
+
+
+
+:::note
 
 Morning Class: JavaScript & Afternoon Class: CSS.
 :::

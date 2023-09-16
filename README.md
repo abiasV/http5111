@@ -14,6 +14,10 @@ This repository contains [Tuesday's classes]. [Provide more context if necessary
 
 :warning: **If you are using mobile browser**: Be very careful here!
 
+:important: **If you are using mobile browser**: Be very careful here!
+
+:note: **If you are using mobile browser**: Be very careful here!
+
 
 
 

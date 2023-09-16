@@ -26,7 +26,7 @@ This repository contains [Tuesday's classes]. [Provide more context if necessary
 Crucial information necessary for users to succeed.
 
 
-> [!Warning]
+> [!WARNING]
 Critical content demanding immediate user attention due to potential risks.
 
 

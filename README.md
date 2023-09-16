@@ -11,7 +11,7 @@ This repository contains [Tuesday's classes]. [Provide more context if necessary
 ### Link
 [Link to JavaScript with Sean Doyle](https://seandoyle.dev/)
 
-[!NOTE]  
+**Note**  
 Morning Class: JavaScript & Afternoon Class: CSS.
 
 [!IMPORTANT]  

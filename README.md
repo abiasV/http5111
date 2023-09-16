@@ -12,13 +12,11 @@ This repository contains [Tuesday's classes]. [Provide more context if necessary
 [Link to JavaScript with Sean Doyle](https://seandoyle.dev/)
 
 
-:::note
-This is a note
-:::
+**Note**
+ This is a note
 
-:::warning
-This is a warning
-:::
+**Warning**
+ This is a warning
 
 
 

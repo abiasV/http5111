@@ -11,12 +11,13 @@ This repository contains [Tuesday's classes]. [Provide more context if necessary
 ### Link
 [Link to JavaScript with Sean Doyle](https://seandoyle.dev/)
 
+### Please read carefully
 
 > [!IMPORTANT]  
-Crucial information necessary for users to succeed.
+In this lesson, they teach JavaScipt and CSS
 
 > [!WARNING]
-Critical content demanding immediate user attention due to potential risks.
+If you do not attend classes regularly, you will miss.
 
 > [!NOTE]  
 Morning Class: JavaScript & Afternoon Class: CSS.
@@ -24,19 +25,19 @@ Morning Class: JavaScript & Afternoon Class: CSS.
 
 > **⚠️ Warning**
 >
-> You shouldn't. This is irreversible!
+> Again! Do not miss this class even a day!
 
 > **❌ Error**
 >
-> Don't do that. This is irreversible!
+> Be careful not to be fooled that this course is easy!
 
 > **ℹ️ Information**
 >
-> You can do that without problem.
+> Tuesday Morning and Afternoon
 
 > **✅ Success**
 >
-> Don't hesitate to do that.
+> You must score above 90%
 
 
 ### Code Sample (JavaScript)

@@ -12,7 +12,7 @@ This repository contains [Tuesday's classes]. [Provide more context if necessary
 [Link to JavaScript with Sean Doyle](https://seandoyle.dev/)
 
 
-**Check**
+**Note**
 Morning Class: JavaScript & Afternoon Class: CSS.
 
 
@@ -20,7 +20,7 @@ Morning Class: JavaScript & Afternoon Class: CSS.
 Crucial information necessary for users to succeed.
 
 
-[!WARNING]  
+**Warning**
 Critical content demanding immediate user attention due to potential risks.
 
 
